@@ -15,11 +15,7 @@ export default function Contact() {
           <div className="text-left space-y-4">
             <div>
               <h3 className="text-lg font-semibold text-green-700">Email</h3>
-              <p className="text-gray-700">contacto@dueroesg.com</p>
-            </div>
-            <div>
-              <h3 className="text-lg font-semibold text-green-700">Teléfono</h3>
-              <p className="text-gray-700">+34 983 123 456</p>
+              <p className="text-gray-700">info.dueroesg@gmail.com</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold text-green-700">Ubicación</h3>

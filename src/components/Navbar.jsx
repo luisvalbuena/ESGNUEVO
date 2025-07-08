@@ -30,7 +30,7 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       {isOpen && (
-        <div className="md:hidden bg-white px-6 py-4 space-y-4 text-gray-700 font-medium">
+        <div className="md:hidden flex flex-col bg-white px-6 py-4 space-y-4 text-gray-700 font-medium">
           <a href="#servicios" onClick={toggleMenu}>Servicios</a>
           <a href="#sobre-nosotros" onClick={toggleMenu}>Sobre Nosotros</a>
           <a href="#contacto" onClick={toggleMenu}>Contacto</a>

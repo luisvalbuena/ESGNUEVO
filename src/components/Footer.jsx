@@ -29,8 +29,7 @@ export default function Footer() {
         <div>
           <h4 className="text-lg font-semibold mb-3">Contacto</h4>
           <ul className="text-green-100 text-sm space-y-2">
-            <li>Email: contacto@dueroesg.com</li>
-            <li>Tel: +34 983 123 456</li>
+            <li>Email: info.dueroesg@gmail.com</li>
             <li>Valladolid, España</li>
           </ul>
         </div>
